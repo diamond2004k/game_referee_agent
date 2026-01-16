@@ -93,5 +93,3 @@ Bot played: scissors
 Result: You win this round!
 Score → You: 1 | Bot: 0
 ```
-Do you want me to do that too?
-```
